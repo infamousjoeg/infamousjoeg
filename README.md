@@ -6,13 +6,13 @@
 
 ```json
 {
-    name: "Joe Garcia",
-    title: "DevOps Security Engineer",
-    company: "CyberArk Software",
-    location: {
-        city: "Tampa",
-        state: "Florida",
-        country: "United States"
+    "name": "Joe Garcia",
+    "title": "DevOps Security Engineer",
+    "company": "CyberArk Software",
+    "location": {
+        "city": "Tampa",
+        "state": "Florida",
+        "country": "United States"
     }
 }
 ```
