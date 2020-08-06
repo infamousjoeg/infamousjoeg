@@ -2,8 +2,9 @@
 
 ## Make'em say, JOE!
 
-![infamousjoeg's github stats](https://github-readme-stats.vercel.app/api?username=infamousjoeg&show_icons=true&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=infamousjoeg&show_icons=true&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infamousjoeg&hide=css,java" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infamousjoeg)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=infamousjoeg&repo=conceal)](https://github.com/infamousjoeg/conceal)
+<a href="https://github.com/infamousjoeg/conceal" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=infamousjoeg&repo=conceal" />
+</a>
