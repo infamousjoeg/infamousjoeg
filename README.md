@@ -10,8 +10,10 @@ I'm Joe Garcia and I'm a DevOps Security Engineer for [@CyberArk](https://github
 
 ## :bar_chart: GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=infamousjoeg&show_icons=true&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infamousjoeg&hide=css,java" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=infamousjoeg&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infamousjoeg&hide=css,java" />
+</div>
 
 ## Current Projects
 
