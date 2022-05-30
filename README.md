@@ -4,7 +4,7 @@
 
 I'm Joe Garcia and I'm a DevOps Security Engineer for [@CyberArk](https://github.com/cyberark). I love showing security teams how to automate and developers how to securely code. This is where I will share all of my examples and projects to help with those efforts. Enjoy your stay!
 
-[![Twitter][1.2]][1] [@Joe_Garcia]([1]) \
+[![Twitter][1.2]][1] [@InfamousJoeG]([1]) \
 [![LinkedIn][3.2]][3] [/in/infamousjoeg]([3])
 
 ## :neckbeard: Technologies & Tools
@@ -37,7 +37,7 @@ I'm Joe Garcia and I'm a DevOps Security Engineer for [@CyberArk](https://github
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Joe_Garcia
+[1]: https://twitter.com/InfamousJoeG
 [2]: https://github.com/infamousjoeg
 [3]: https://www.linkedin.com/in/infamousjoeg
 
