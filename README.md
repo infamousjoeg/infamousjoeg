@@ -1,4 +1,4 @@
-[![](https://github.com/infamousjoeg/infamousjoeg/blob/master/assets/header.png)](https://joegarcia.dev)
+[![](https://github.com/infamousjoeg/infamousjoeg/blob/master/assets/infamousjoeg-GitHub-Logo.png)](https://joegarcia.dev)
 
 ## :mega: Make'em say, JOE!
 
